@@ -1,6 +1,6 @@
 # COVID19 Data Visualization by Python
 
-My data source is https://ourworldindata.org/coronavirus-source-data
+My data source (https://ourworldindata.org/coronavirus-source-data)
 
 ## March 21
 [Here](Covid19_March_21.html) is the latest version of my work.
