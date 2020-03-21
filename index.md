@@ -1,6 +1,6 @@
 # COVID19 Data Visualization by Python
 
-This is my [data source](https://ourworldindata.org/coronavirus-source-data)
+This is my [data source](https://ourworldindata.org/coronavirus-source-data)  
 You can follow me on [Twitter](https://twitter.com/BaturalpYalcin) and check my [GitHub Page](https://github.com/baturalpyalcinn) to be kept updated about my work.
 
 ## March 21
