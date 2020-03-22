@@ -4,7 +4,7 @@
 - You can follow me on [Twitter](https://twitter.com/BaturalpYalcin) and check my [GitHub Page](https://github.com/baturalpyalcinn) to be kept updated about my work.
 
 ### March 22
-[Here](Covid19_March_22.html) is the latest version of my work.
+[Here](Covid19_March_22.html) is the latest version of my work.  
 **For Turkey:** You can find plots and figures related to Turkey from [here](Covid19_March_22_Turkey.html).
 
 **Some *updates*:**    
