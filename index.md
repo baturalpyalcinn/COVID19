@@ -11,6 +11,8 @@
 - I have added markers to plots to identify the changes in the numbers better.
 - I have created separate page for Turkey for the ones who are only interested in Turkey.  
 
+*Here is a new plot for Turkey depicting the capacity of the hospitals in Turkey and how long they can accomodate new patients under exponential growth*  
+
 ![New Plot](new_plot.PNG)
 
 ### March 21
