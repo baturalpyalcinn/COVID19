@@ -11,7 +11,7 @@
 - I have added markers to plots to identify the changes in the numbers better.
 - I have created separate page for Turkey for the ones who are only interested in Turkey.  
 
-![New Plot](new_plot.png)
+![New Plot](new_plot.PNG)
 
 ### March 21
 [Here](Covid19_March_21.html) is the March21 version of my work.
