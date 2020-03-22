@@ -11,7 +11,7 @@
 - I have added markers to plots to identify the changes in the numbers better.
 - I have created separate page for Turkey for the ones who are only interested in Turkey.  
 
-*"Here is a new plot for Turkey depicting the capacity of the hospitals in Turkey and how long they can accomodate new patients under exponential growth. According to the plot, if the number of COVID 19 cases continue to grow exponentially, there will not be enoug hospital beds until March 30th assuming that every patient will be hospitalized."*  
+*"Here is a new plot for Turkey depicting the capacity of the hospitals in Turkey and how long they can accomodate new patients under exponential growth. According to the plot, if the number of COVID 19 cases continue to grow exponentially, there will not be enough hospital beds until March 30th assuming that every patient will be hospitalized."*  
 
 ![New Plot](new_plot.PNG)
 
