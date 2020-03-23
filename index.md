@@ -14,10 +14,10 @@
 
 | Country      | March 22 | March 23     |
 | :---        |    :----:   |          ---: |
-| Turkey      | Title       | Here's this   |
-| Italy   | Text        | And more      |  
-| United States      | Title       | Here's this   |
-| Spain   | Text        | And more      |
+| Turkey      | 1,236       | 1,605   |
+| Italy   | 59,138        | 66,567      |  
+| United States      | 35,206       | 42,199   |
+| Spain   | 28,572        | 33,502      |
 
 ### March 22
 [Here](Covid19_March_22.html) is the March 22 version of my work.  
