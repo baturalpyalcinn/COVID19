@@ -12,7 +12,7 @@
 - I have added forecast section where I compare exponential, quadratic, cubic, and fourth order fits for some countries.
 - I have specific next 10 day forecast for the countries that cannot flatten the curve.  
 
-**Here is my forecasts of total cases for the countries that could not flatten the curve**
+**Here is my forecasts of total cases for the countries that could not flatten the curve!**
 
 | Country      | March 22 (Actual) | March 23 (Forecast)    |
 | :---        |    :----:   |          ---: |
