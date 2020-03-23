@@ -14,7 +14,7 @@
 
 **Here is my forecasts of total cases for the countries that could not flatten the curve! Check out the plots below.**
 
-| Country      | March 22 (Actual) | March 23 (Forecast)    | March 23 (Actual) |
+| Country      | March 22 (Actual) | March 23 (Forecast)    | March 23 (Error) |
 | :---        |    :----:   |          ---: |           ---: |
 | Turkey      | 1,236       | 1,605   | 1,529 (-21 %) |
 | Italy   | 59,138        | 66,567      |  63,927 (-36 %) |
