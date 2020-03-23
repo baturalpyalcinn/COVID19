@@ -19,7 +19,12 @@
 | Turkey      | 1,236       | 1,605   |
 | Italy   | 59,138        | 66,567      |  
 | United States      | 35,206       | 42,199   |
-| Spain   | 28,572        | 33,502      |
+| Spain   | 28,572        | 33,502      |  
+
+![Turkey Plot](March_23/turkey_forecast.PNG)
+![Italy Plot](March_23/italy_forecast.PNG)
+![USA Plot](March_23/us_forecast.PNG)
+![Spain Plot](March_23/spain_forecast.PNG)
 
 ### March 22
 [Here](Covid19_March_22.html) is the March 22 version of my work.  
