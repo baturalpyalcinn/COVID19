@@ -5,8 +5,8 @@
 
 ### March 23 (Latest)
 **For comparitive plots:** You can find comparitive plots of the countries in the world from [here.](March_23/Covid19_March_23_Plots.html)  
-**For Forecast Study:** You can find forecast for some specific countries [here.](March23/Covid19_March_23_Forecast.html)  
-**For Turkey:** You can find plots and figures related to Turkey from [here.](March23/Covid19_March_23_Turkey.html)    
+**For Forecast Study:** You can find forecast for some specific countries [here.](March_23/Covid19_March_23_Forecast.html)  
+**For Turkey:** You can find plots and figures related to Turkey from [here.](March_23/Covid19_March_23_Turkey.html)    
 
 **Some *updates*:**  
 - I have added forecast section where I compare exponential, quadratic, cubic, and fourth order fits for some countries.
