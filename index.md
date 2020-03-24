@@ -12,7 +12,7 @@
 - I have added damped exponential smoothing method under the forecast section to estimate future total cases.
 - I started to keep track of daily testing number for Turkey. You can see the plots under the Turkey section.  
 
-My daily forecast for some countries by using damped exponential smoothing method. See the plots below!  
+My daily forecasts for some countries by using damped exponential smoothing method. See the plots below!  
 
 | Country      | March 23 (Actual) | March 24 (Forecast)    | March 24 (Error) |
 | :---        |    :----:   |          ---: |           ---: |
