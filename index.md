@@ -16,11 +16,11 @@
 
 | Country      | March 22 (Actual) | March 23 (Forecast)    | March 23 (Error) |
 | :---        |    :----:   |          ---: |           ---: |
-| Turkey      | 1,236       | 1,605   | 1,529 (21%) |
-| Italy   | 59,138        | 66,567      |  63,927 (36%) |
-| United States      | 35,206       | 42,199   |
-| Spain   | 28,572        | 33,502      |  
-|United Kingdom   | 5,683        | 6,917      |  6,724 (16%) |
+| Turkey      | 1,236       | 1,605   | 1,529 (26%) |
+| Italy   | 59,138        | 66,567      |  63,927 (55%) |
+| United States      | 35,206       | 42,199   | 46,442 (-38%)
+| Spain   | 28,572        | 33,502      |  33,089(9%)
+|United Kingdom   | 5,683        | 6,917      |  6,724 (19%) |
 
 ![Turkey Plot](March_23/turkey_forecast.PNG)
 ![Italy Plot](March_23/italy_forecast.PNG)
