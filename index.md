@@ -12,13 +12,15 @@
 - I have added damped exponential smoothing method under the forecast section to estimate future total cases.
 - I started to keep track of daily testing number for Turkey. You can see the plots under the Turkey section.  
 
-| Country      | March 22 (Actual) | March 23 (Forecast)    | March 23 (Error) |
+My daily forecast for some countries by using damped exponential smoothing method. See the plots below!  
+
+| Country      | March 23 (Actual) | March 24 (Forecast)    | March 24 (Error) |
 | :---        |    :----:   |          ---: |           ---: |
-| Turkey      | 1,529      | 1,605   |  |
-| Italy   | 63,927       | 66,567      |   |
-| United States      | 46,442       | 42,199   | |
-| Spain   | 33,089       | 33,502      |  
-|United Kingdom   | 6,724       | 6,917      |   |
+| Turkey      | 1,529      | 1,859   |  |
+| Italy   | 63,927       | 68,955      |   |
+| United States      | 46,442       | 60,540   | |
+| Spain   | 33,089       | 38,603      |  
+|United Kingdom   | 6,724       | 7,801      |   |
 
 - **Purple** curve performs the best according to recent updates in **Turkey**.    
 ![Turkey Plot](March_24/turkey_purple.PNG)  
