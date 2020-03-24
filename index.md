@@ -3,14 +3,19 @@
 - This is my [data source.](https://ourworldindata.org/coronavirus-source-data)  
 - You can follow me on [Twitter](https://twitter.com/BaturalpYalcin) and check my [GitHub Page](https://github.com/baturalpyalcinn) to be kept updated about my work.
 
-### March 23 (Latest)
+### March 24 (Latest)
+**For Comparitive Plots:** You can find comparitive plots of the countries in the world from [here.](March_24/Covid19_March_24_Plots.html)  
+**For Forecast Study:** You can find forecast for some specific countries [here.](March_23/Covid19_March_24_Forecast.html)  
+**For Turkey:** You can find plots and figures related to Turkey from [here.](March_23/Covid19_March_24_Turkey.html)   
+
+**Some *updates*:**  
+- I have added damped exponential smoothing method under the forecast section to estimate future total cases.
+- I started to keep track of daily testing number for Turkey. You can see the plots under the Turkey section.  
+
+### March 23
 **For Comparitive Plots:** You can find comparitive plots of the countries in the world from [here.](March_23/Covid19_March_23_Plots.html)  
 **For Forecast Study:** You can find forecast for some specific countries [here.](March_23/Covid19_March_23_Forecast.html)  
 **For Turkey:** You can find plots and figures related to Turkey from [here.](March_23/Covid19_March_23_Turkey.html)    
-
-**Some *updates*:**  
-- I have added forecast section where I compare exponential, quadratic, cubic, and fourth order fits for some countries.
-- I have specific next 10 day forecast for the countries that cannot flatten the curve.  
 
 **Here is my forecasts of total cases for the countries that could not flatten the curve! Check out the plots below.**
 
