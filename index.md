@@ -12,6 +12,12 @@
 - I have added damped exponential smoothing method under the forecast section to estimate future total cases.
 - I started to keep track of daily testing number for Turkey. You can see the plots under the Turkey section.  
 
+![Turkey Plot](March_24/turkey_purple.PNG)
+![Italy Plot](March_24/italy_red.PNG)
+![USA Plot](March_24/us_yellow.PNG)
+![Spain Plot](March_24/spain_green.PNG)  
+![UK Plot](March_24/uk_green.PNG)
+
 ### March 23
 **For Comparitive Plots:** You can find comparitive plots of the countries in the world from [here.](March_23/Covid19_March_23_Plots.html)  
 **For Forecast Study:** You can find forecast for some specific countries [here.](March_23/Covid19_March_23_Forecast.html)  
