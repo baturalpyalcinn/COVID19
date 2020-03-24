@@ -14,13 +14,13 @@
 
 My daily forecasts for some countries by using damped exponential smoothing method. See the plots below!  
 
-| Country      | March 23 (Actual) | March 24 (Forecast)    | March 24 (Error) |
+| Country      | March 23 (Actual) | March 24 (Forecast) (ES)    | March 24 (Forecast) (LR) |
 | :---        |    :----:   |          ---: |           ---: |
-| Turkey      | 1,529      | 1,859   |  |
-| Italy   | 63,927       | 68,955      |   |
-| United States      | 46,442       | 60,540   | |
-| Spain   | 33,089       | 38,603      |  
-|United Kingdom   | 6,724       | 7,801      |   |
+| Turkey      | 1,529      | 1,859   | 1,847  |
+| Italy   | 63,927       | 68,955      | 72,866  |
+| United States      | 46,442       | 60,540   | 55,046 |
+| Spain   | 33,089       | 38,603      |  38,550 | 
+| United Kingdom   | 6,724       | 7,801      |  7,944 |
 
 - **Purple** curve performs the best according to recent updates in **Turkey**.    
 ![Turkey Plot](March_24/turkey_purple.PNG)  
