@@ -5,8 +5,8 @@
 
 ### March 24 (Latest)
 **For Comparitive Plots:** You can find comparitive plots of the countries in the world from [here.](March_24/Covid19_March_24_Plots.html)  
-**For Forecast Study:** You can find forecast for some specific countries [here.](March_23/Covid19_March_24_Forecast.html)  
-**For Turkey:** You can find plots and figures related to Turkey from [here.](March_23/Covid19_March_24_Turkey.html)   
+**For Forecast Study:** You can find forecast for some specific countries [here.](March_24/Covid19_March_24_Forecast.html)  
+**For Turkey:** You can find plots and figures related to Turkey from [here.](March_24/Covid19_March_24_Turkey.html)   
 
 **Some *updates*:**  
 - I have added damped exponential smoothing method under the forecast section to estimate future total cases.
