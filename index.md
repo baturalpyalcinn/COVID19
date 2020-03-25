@@ -3,7 +3,32 @@
 - This is my [data source.](https://ourworldindata.org/coronavirus-source-data)  
 - You can follow me on [Twitter](https://twitter.com/BaturalpYalcin) and check my [GitHub Page](https://github.com/baturalpyalcinn) to be kept updated about my work.
 
-### March 24 (Latest)
+### March 25 (Latest)
+**For Comparitive Plots:** You can find comparitive plots of the countries in the world from [here.](March_25/Covid19_March_25_Plots.html)  
+**For Forecast Study:** 
+- You can find Linear Regression forecast for some specific countries [here.](March_25/Covid19_March_25_Forecast_LR.html)  
+- You can find Damped Exponential Smoothing forecast for some specific countries [here.](March_25/Covid19_March_25_Forecast_ES.html) 
+**For Turkey:** You can find plots and figures related to Turkey from [here.](March_25/Covid19_March_25_Turkey.html)   
+
+**Some *updates*:**  
+- I have added new countries that I made forecast for.
+- I make hyperparameter tuning for exponential smoothing method before make a forecast.
+
+**My forecasts for each country are based on whichever method works best for a specific country.**
+
+
+| Country      | March 24 (Actual) | March 25 (Forecast)    | 
+| :---        |    :----:   |          ---: |
+| World exc. China      | 335,069      |    |
+| Turkey      | 1,872      |    | 
+| Italy   | 69,176       |      | 
+| United States      | 55,231       |   | 
+| Spain   | 39,673       |     |  
+| United Kingdom   | 8,077       |     |   
+| Germany   | 31,554      |     |  
+| France   | 22,302       |     |  
+
+### March 24
 **For Comparitive Plots:** You can find comparitive plots of the countries in the world from [here.](March_24/Covid19_March_24_Plots.html)  
 **For Forecast Study:** You can find forecast for some specific countries [here.](March_24/Covid19_March_24_Forecast.html)  
 **For Turkey:** You can find plots and figures related to Turkey from [here.](March_24/Covid19_March_24_Turkey.html)   
