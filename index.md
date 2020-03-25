@@ -25,7 +25,12 @@
 | United States      | 55,231       | 67,324  | 
 | Spain   | 39,673       |   45,102  |  
 | United Kingdom   | 8,077       | 9,369    |   
-| France   | 22,302       |  25,253   |  
+| France   | 22,302       |  25,253   |   
+
+- **Purple** curve performs the best according to recent updates in **Turkey**.    
+![Turkey Percentage Plot](March_25/turkey_percentage.PNG)  
+
+![Turkey Absolute Plot](March_25/italy_absolute.PNG)  
 
 ### March 24
 **For Comparitive Plots:** You can find comparitive plots of the countries in the world from [here.](March_24/Covid19_March_24_Plots.html)  
