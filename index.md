@@ -19,14 +19,13 @@
 
 | Country      | March 24 (Actual) | March 25 (Forecast)    | 
 | :---        |    :----:   |          ---: |
-| World exc. China      | 335,069      |    |
-| Turkey      | 1,872      |    | 
-| Italy   | 69,176       |      | 
-| United States      | 55,231       |   | 
-| Spain   | 39,673       |     |  
-| United Kingdom   | 8,077       |     |   
-| Germany   | 31,554      |     |  
-| France   | 22,302       |     |  
+| World exc. China      | 335,069      | 378,307   |
+| Turkey      | 1,872      |  2,176  | 
+| Italy   | 69,176       |  73,882    | 
+| United States      | 55,231       | 67,324  | 
+| Spain   | 39,673       |   45,102  |  
+| United Kingdom   | 8,077       | 9,369    |   
+| France   | 22,302       |  25,253   |  
 
 ### March 24
 **For Comparitive Plots:** You can find comparitive plots of the countries in the world from [here.](March_24/Covid19_March_24_Plots.html)  
