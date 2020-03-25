@@ -7,8 +7,8 @@
 **For Comparitive Plots:** You can find comparitive plots of the countries in the world from [here.](March_25/Covid19_March_25_Plots.html)  
 **For Turkey:** You can find plots and figures related to Turkey from [here.](March_25/Covid19_March_25_Turkey.html)   
 **For Forecast Study:** 
-- You can find Linear Regression forecast for some specific countries [here.](March_25/Covid19_March_25_Forecast_LR.html)  
-- You can find Damped Exponential Smoothing forecast for some specific countries [here.](March_25/Covid19_March_25_Forecast_ES.html)  
+- You can find **Linear Regression** forecast for some specific countries [here.](March_25/Covid19_March_25_Forecast_LR.html)  
+- You can find **Damped Exponential Smoothing** forecast for some specific countries [here.](March_25/Covid19_March_25_Forecast_ES.html)  
 
 **Some *updates*:**  
 - I have added new countries that I made forecast for.
