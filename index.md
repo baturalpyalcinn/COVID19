@@ -27,10 +27,11 @@
 | United Kingdom   | 8,077       | 9,369    |   
 | France   | 22,302       |  25,253   |   
 
-- **Purple** curve performs the best according to recent updates in **Turkey**.    
+- *"Although the number of new cases anounced per day has slowed in Turkey, percentage of patients who tested positive are at a constant level around 8-9%. The absolute number of testings are failed to increase rapidly as expected. Therefore, as the number of testing grows, Turkey might continue to grow exponentially in terms of total number of patients."*  
+
 ![Turkey Percentage Plot](March_25/turkey_percentage.PNG)  
 
-![Turkey Absolute Plot](March_25/italy_absolute.PNG)  
+![Turkey Absolute Plot](March_25/turkey_absolute.PNG)  
 
 ### March 24
 **For Comparitive Plots:** You can find comparitive plots of the countries in the world from [here.](March_24/Covid19_March_24_Plots.html)  
