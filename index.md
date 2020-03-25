@@ -18,7 +18,7 @@ My daily forecasts for some countries by using damped exponential smoothing meth
 | :---        |    :----:   |          ---: |           ---: |
 | Turkey      | 1,529      | 1,859 (-4%)   | 1,847 (-7%)  |
 | Italy   | 63,927       | 68,955 (-4%)     | 72,866 (+70%)  |
-| United States      | 46,442       | 60,540 (+60%)  | 55,046 (%2) |
+| United States      | 46,442       | 60,540 (+60%)  | 55,046 (+%2) |
 | Spain   | 33,089       | 38,603  (-16%)    |  38,550 (-17%) | 
 | United Kingdom   | 6,724       | 7,801 (-20%)     |  7,944 (-10%) |
 
