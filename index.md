@@ -34,10 +34,6 @@
 - You can find **Linear Regression** forecast for some specific countries [here.](March_25/Covid19_March_25_Forecast_LR.html)  
 - You can find **Damped Exponential Smoothing** forecast for some specific countries [here.](March_25/Covid19_March_25_Forecast_ES.html)  
 
-**Some *updates*:**  
-- I have added new countries that I made forecast for.
-- I make hyperparameter tuning for exponential smoothing method before make a forecast.
-
 **My forecasts for each country are based on whichever method works best for a specific country.**
 
 
