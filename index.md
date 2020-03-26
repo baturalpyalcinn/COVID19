@@ -26,7 +26,9 @@
 | United States      | 69,194       | 84,205  | 
 | Spain   | 47,610       | 54,421    |  
 | United Kingdom   | 9,529      |  11,387  |   
-| France   | 25,233       | 28,409  |   
+| France   | 25,233       | 28,409  |     
+
+![Population Adjusted](March_26/population_adjusted.PNG) 
 
 ### March 25
 **For Comparitive Plots:** You can find comparitive plots of the countries in the world from [here.](March_25/Covid19_March_25_Plots.html)  
