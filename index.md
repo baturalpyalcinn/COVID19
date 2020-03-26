@@ -6,7 +6,7 @@
 ### March 26
 **For Comparitive Plots:** You can find comparitive plots of the countries in the world from [here.](March_26/Covid19_March_26_Plots.html)  
 **For Turkey:** You can find plots and figures related to Turkey from [here.](March_26/Covid19_March_26_Turkey.html)   
-**For Testing Numbers:** You can find plots and figures regarding daily testing numbers of some countries [here.](March_26/Covid19_Testing.html)
+**For Testing Numbers:** You can find plots and figures regarding daily testing numbers of some countries [here.](March_26/Covid19_Testing.html)  
 **For Forecast Study:** 
 - You can find **Linear Regression** forecast for some specific countries [here.](March_26/Covid19_March_26_Forecast_LR.html)  
 - You can find **Damped Exponential Smoothing** forecast for some specific countries [here.](March_26/Covid19_March_26_Forecast_ES.html)  
