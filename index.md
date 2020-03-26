@@ -28,6 +28,8 @@
 | United Kingdom   | 9,529      |  11,387  |   
 | France   | 25,233       | 28,409  |     
 
+*New plot for logarithm of total cases per million in some countries vs. day since 1st case per million people is added. According to this new plot, the huge leap in the number of cases in the US may result from its population. Apart from that, after the total cases are adjusted for the population, the trend in every country seems like on more similar paths."
+
 ![Population Adjusted](March_26/population_adjusted.PNG) 
 
 ### March 25
