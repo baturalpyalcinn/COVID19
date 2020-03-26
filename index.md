@@ -1,9 +1,33 @@
 # COVID19 Data Visualization with Python
 
 - This is my [data source.](https://ourworldindata.org/coronavirus-source-data)  
-- You can follow me on [Twitter](https://twitter.com/BaturalpYalcin) and check my [GitHub Page](https://github.com/baturalpyalcinn) to be kept updated about my work.
+- You can follow me on [Twitter](https://twitter.com/BaturalpYalcin) and check my [GitHub Page](https://github.com/baturalpyalcinn) to be kept updated about my work.  
 
-### March 25 (Latest)
+### March 26
+**For Comparitive Plots:** You can find comparitive plots of the countries in the world from [here.](March_25/Covid19_March_25_Plots.html)  
+**For Turkey:** You can find plots and figures related to Turkey from [here.](March_25/Covid19_March_25_Turkey.html)   
+**For Forecast Study:** 
+- You can find **Linear Regression** forecast for some specific countries [here.](March_25/Covid19_March_25_Forecast_LR.html)  
+- You can find **Damped Exponential Smoothing** forecast for some specific countries [here.](March_25/Covid19_March_25_Forecast_ES.html)  
+
+**Some *updates*:**  
+- I have added population adjusted plots to see the situation in terms of per million people.
+- I have collected some testing nubers per day for countries.
+
+**My forecasts for each country are based on whichever method works best for a specific country.**
+
+
+| Country      | March 25 (Actual) | March 26 (Forecast)    | 
+| :---        |    :----:   |          ---: |
+| World exc. China      | 385,742      |  438,150 |
+| Turkey      | 2,433      |    | 
+| Italy   | 74,386       | 79,457    | 
+| United States      | 69,194       | 84,205  | 
+| Spain   | 47,610       | 54,421    |  
+| United Kingdom   | 9,529      |  11,387  |   
+| France   | 25,233       | 28,409  |   
+
+### March 25
 **For Comparitive Plots:** You can find comparitive plots of the countries in the world from [here.](March_25/Covid19_March_25_Plots.html)  
 **For Turkey:** You can find plots and figures related to Turkey from [here.](March_25/Covid19_March_25_Turkey.html)   
 **For Forecast Study:** 
