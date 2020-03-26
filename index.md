@@ -19,13 +19,13 @@
 
 | Country      | March 24 (Actual) | March 25 (Forecast)    | 
 | :---        |    :----:   |          ---: |
-| World exc. China      | 335,069      | 378,307   |
-| Turkey      | 1,872      |  2,176  | 
-| Italy   | 69,176       |  73,882    | 
-| United States      | 55,231       | 67,324  | 
-| Spain   | 39,673       |   45,102  |  
-| United Kingdom   | 8,077       | 9,369    |   
-| France   | 22,302       |  25,253   |   
+| World exc. China      | 335,069      | 378,307 (-15%)   |
+| Turkey      | 1,872      |  2,176 (-46%)  | 
+| Italy   | 69,176       |  73,882 (-10%)    | 
+| United States      | 55,231       | 67,324 (-13%)  | 
+| Spain   | 39,673       |   45,102 (-32%)  |  
+| United Kingdom   | 8,077       | 9,369 (-11%)    |   
+| France   | 22,302       |  25,253 (+1%)  |   
 
 - *"Although the number of new cases anounced per day has slowed in Turkey, percentage of patients who tested positive are at a constant level around 8-9%. The absolute number of testings are failed to increase rapidly as expected. Therefore, as the number of testing grows, Turkey might continue to grow exponentially in terms of total number of patients."*  
 
