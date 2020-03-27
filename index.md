@@ -39,19 +39,6 @@
 - You can find **Linear Regression** forecast for some specific countries [here.](March_25/Covid19_March_25_Forecast_LR.html)  
 - You can find **Damped Exponential Smoothing** forecast for some specific countries [here.](March_25/Covid19_March_25_Forecast_ES.html)  
 
-**My forecasts for each country are based on whichever method works best for a specific country.**
-
-
-| Country      | March 24 (Actual) | March 25 (Forecast)    | 
-| :---        |    :----:   |          ---: |
-| World exc. China      | 335,069      | 378,307 (-15%)   |
-| Turkey      | 1,872      |  2,176 (-46%)  | 
-| Italy   | 69,176       |  73,882 (-10%)    | 
-| United States      | 55,231       | 67,324 (-13%)  | 
-| Spain   | 39,673       |   45,102 (-32%)  |  
-| United Kingdom   | 8,077       | 9,369 (-11%)    |   
-| France   | 22,302       |  25,253 (+1%)  |   
-
 - *"Although the number of new cases anounced per day has slowed in Turkey, percentage of patients who tested positive are at a constant level around 8-9%. The absolute number of testings are failed to increase rapidly as expected. Therefore, as the number of testing grows, Turkey might continue to grow exponentially in terms of total number of patients."*  
 
 ![Turkey Percentage Plot](March_25/turkey_percentage.PNG)  
@@ -66,16 +53,6 @@
 **Some *updates*:**  
 - I have added damped exponential smoothing method under the forecast section to estimate future total cases.
 - I started to keep track of daily testing number for Turkey. You can see the plots under the Turkey section.  
-
-My daily forecasts for some countries by using damped exponential smoothing method (ES) and linear regression method (LR). See the plots below!  
-
-| Country      | March 23 (Actual) | March 24 (Forecast) (ES)    | March 24 (Forecast) (LR) |
-| :---        |    :----:   |          ---: |           ---: |
-| Turkey      | 1,529      | 1,859 (-4%)   | 1,847 (-7%)  |
-| Italy   | 63,927       | 68,955 (-4%)     | 72,866 (+70%)  |
-| United States      | 46,442       | 60,540 (+60%)  | 55,046 (+%2) |
-| Spain   | 33,089       | 38,603  (-16%)    |  38,550 (-17%) | 
-| United Kingdom   | 6,724       | 7,801 (-20%)     |  7,944 (-10%) |
 
 - **Purple** curve performs the best according to recent updates in **Turkey**.    
 ![Turkey Plot](March_24/turkey_purple.PNG)  
@@ -97,15 +74,6 @@ My daily forecasts for some countries by using damped exponential smoothing meth
 **For Forecast Study:** You can find forecast for some specific countries [here.](March_23/Covid19_March_23_Forecast.html)  
 **For Turkey:** You can find plots and figures related to Turkey from [here.](March_23/Covid19_March_23_Turkey.html)    
 
-**Here is my forecasts of total cases for the countries that could not flatten the curve! Check out the plots below.**
-
-| Country      | March 22 (Actual) | March 23 (Forecast)    | March 23 (Error) |
-| :---        |    :----:   |          ---: |           ---: |
-| Turkey      | 1,236       | 1,605   | 1,529 (26%) |
-| Italy   | 59,138        | 66,567      |  63,927 (55%) |
-| United States      | 35,206       | 42,199   | 46,442 (-38%)
-| Spain   | 28,572        | 33,502      |  33,089(9%)
-|United Kingdom   | 5,683        | 6,917      |  6,724 (19%) |
 
 ![Turkey Plot](March_23/turkey_forecast.PNG)
 ![Italy Plot](March_23/italy_forecast.PNG)
