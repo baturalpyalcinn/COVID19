@@ -4,12 +4,12 @@
 - You can follow me on [Twitter](https://twitter.com/BaturalpYalcin) and check my [GitHub Page](https://github.com/baturalpyalcinn) to be kept updated about my work.  
 
 ### March 27 (Latest)
-**For Comparitive Plots:** You can find comparitive plots of the countries in the world from [here.](March_26/Covid19_March_26_Plots.html)  
-**For Turkey:** You can find plots and figures related to Turkey from [here.](March_26/Covid19_March_26_Turkey.html)   
-**For Testing Numbers:** You can find plots and figures regarding daily testing numbers of some countries [here.](March_26/Covid19_Testing.html)  
+**For Comparitive Plots:** You can find comparitive plots of the countries in the world from [here.](March_27/Covid19_March_27_Plots.html)  
+**For Turkey:** You can find plots and figures related to Turkey from [here.](March_27/Covid19_March_27_Turkey.html)   
+**For Testing Numbers:** You can find plots and figures regarding daily testing numbers of some countries [here.](March_27/Covid19_Testing.html)  
 **For Forecast Study:** 
-- You can find **Linear Regression** forecast for some specific countries [here.](March_26/Covid19_March_26_Forecast_LR.html)  
-- You can find **Damped Exponential Smoothing** forecast for some specific countries [here.](March_26/Covid19_March_26_Forecast_ES.html)  
+- You can find **Linear Regression** forecast for some specific countries [here.](March_27/Covid19_March_27_Forecast_LR.html)  
+- You can find **Damped Exponential Smoothing** forecast for some specific countries [here.](March_27/Covid19_March_27_Forecast_ES.html)  
 
 **Some *updates*:**  
 - I have adjusted testing numbers so that we can see the increase in the testing numbers after the spread has begun in each country.
@@ -19,13 +19,18 @@
 
 | Country      | March 26 (Actual) | March 27 (Forecast)    | 
 | :---        |    :----:   |          ---: |
-| World exc. China      | 445,946      |   |
-| Turkey      | 3,629      |   | 
-| Italy   | 80,539       |    | 
-| United States      | 85,991      |   | 
-| Spain   | 56,188       |    |  
-| United Kingdom   | 11,658      |   |   
-| France   | 29,155       |  |     
+| World exc. China      | 445,946      |  505,080 |
+| Turkey      | 3,629      | 4,580  | 
+| Italy   | 80,539       |  86,114  | 
+| United States      | 85,991      | 103,151  | 
+| Spain   | 56,188       | 66,717   |  
+| United Kingdom   | 11,658      | 14,058  |   
+| France   | 29,155       | 33,025 |     
+
+
+![Testing1](March_27/testing_1.PNG)  
+![Testing2](March_27/testing_2.PNG)   
+![Testing3](March_27/testing_3.PNG) 
 
 ### March 26
 **For Comparitive Plots:** You can find comparitive plots of the countries in the world from [here.](March_26/Covid19_March_26_Plots.html)  
